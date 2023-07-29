@@ -1,0 +1,31 @@
+.signup{
+    border: 1px solid hsla(0, 0%, 97%, 0.995);
+    width: 300px;
+    padding: 30px;
+    margin-left: 450px;
+    height: 400px;
+    background-color: hsla(0, 0%, 97%, 0.995);
+    ;
+}
+input{
+    width: 280px;
+    padding: 5px;
+    border-radius: 5px;
+   border: 1px solid grey;
+}
+
+
+p{
+    text-align: center;
+}
+.btn{
+    width: 290px;
+    background-color: #463EEA;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+body{
+   background-image: url(./Background\ Pattern.png);
+}

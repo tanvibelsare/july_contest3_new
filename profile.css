@@ -1,0 +1,36 @@
+.profile{
+    border: 1px solid hsla(0, 0%, 97%, 0.995);
+    width: 300px;
+    padding: 30px;
+    margin-left: 450px;
+    height: 400px;
+    background-color: hsla(0, 0%, 97%, 0.995);
+    ;
+}
+#btn{
+    width: 290px;
+    background-color: #463EEA;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.img{
+margin-left: 110px;
+}
+.img1{
+    margin-left: 15px;
+}
+.msg{
+    font-size: 20px;
+    color: #463EEA;
+}
+body{
+    background-image: url(./Background\ Pattern.png);
+ }
